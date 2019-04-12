@@ -1,0 +1,11 @@
+D:\编程\git\learngit\src\LearnGitDemo\bin\Debug\netcoreapp2.1\LearnGitDemo.deps.json
+D:\编程\git\learngit\src\LearnGitDemo\bin\Debug\netcoreapp2.1\LearnGitDemo.runtimeconfig.json
+D:\编程\git\learngit\src\LearnGitDemo\bin\Debug\netcoreapp2.1\LearnGitDemo.runtimeconfig.dev.json
+D:\编程\git\learngit\src\LearnGitDemo\bin\Debug\netcoreapp2.1\LearnGitDemo.dll
+D:\编程\git\learngit\src\LearnGitDemo\bin\Debug\netcoreapp2.1\LearnGitDemo.pdb
+D:\编程\git\learngit\src\LearnGitDemo\obj\Debug\netcoreapp2.1\LearnGitDemo.csprojAssemblyReference.cache
+D:\编程\git\learngit\src\LearnGitDemo\obj\Debug\netcoreapp2.1\LearnGitDemo.csproj.CoreCompileInputs.cache
+D:\编程\git\learngit\src\LearnGitDemo\obj\Debug\netcoreapp2.1\LearnGitDemo.AssemblyInfoInputs.cache
+D:\编程\git\learngit\src\LearnGitDemo\obj\Debug\netcoreapp2.1\LearnGitDemo.AssemblyInfo.cs
+D:\编程\git\learngit\src\LearnGitDemo\obj\Debug\netcoreapp2.1\LearnGitDemo.dll
+D:\编程\git\learngit\src\LearnGitDemo\obj\Debug\netcoreapp2.1\LearnGitDemo.pdb
